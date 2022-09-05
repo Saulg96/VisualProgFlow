@@ -1,14 +1,14 @@
 <template>
     <div class="add-node-container">
         <div class="add-code">
-            <h3>Add: </h3>
-            <input class="input-style" type="text" disabled df-added/>
+            <h3>Multiply: </h3>
+            <input class="input-style" type="text" disabled df-multiplied/>
         </div>
     </div>
 </template>
 <style scoped>
     .add-node-container {
-        background-color: rgb(152, 240, 171);
+        background-color: rgb(152, 175, 240);
         height: 120px;
         /*margin-top: -21px;
         /*margin-bottom: -21px;*/

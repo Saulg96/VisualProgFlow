@@ -2,7 +2,7 @@
     <div class="num-node-container">
         <div class="num-code">
             <h3>Number</h3>
-            <input class="input-style" type="number" />
+            <input class="input-style" type="number" df-number/>
         </div>
     </div>
 </template>
